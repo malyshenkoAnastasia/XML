@@ -1,1 +1,5 @@
-
+<?xml version="1.0"?>
+<Steps to reproduce>Открыть на сайте Wildberries https://www.wildberries.ru в каталоге раздел Видеообзоры
+В фильтре поиска в левой части страницы в разделе Бренды посмотреть названия брендов"</Steps to reproduce>
+<Actual result>Вместо брендов отображаются описания товаров с использованием символов( см. фото - Бренды)Бренды</Actual result>
+<Expected result>Названия брендов отображаются верно</Expected result>
